@@ -17,6 +17,15 @@
 - 🌱 Currently learning: **Programming fundamentals and software development**
 - 📬 Contact me: **giese.fia@gmail.com**
 
+  <br>
+
+  <div align="center">
+  <blockquote>
+    "Code is like humor. When you have to explain it, it’s bad." – Cory House
+  </blockquote>
+</div>
+
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -80,7 +89,7 @@
 
 ---
 
-### 📈 GitHub Stats (Optional)
+### 📈 GitHub Stats
 
 
 
