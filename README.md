@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Timo Giese! 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hi, I'm Timo Giese! 
 </h1>
 
 
@@ -19,45 +19,48 @@
 
   <br>
 
-  <div align="center">
-  <blockquote>
+<div align="center">
+  <blockquote style="font-style: italic; font-size: 1.2em; color: #555;">
     "Code is like humor. When you have to explain it, it’s bad." – Cory House
   </blockquote>
 </div>
 
 
----
 
-### 🛠️ Languages & Tools
+
+
+### 🛠️ Languages
 
 
 <table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
         <br />Bootstrap
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
         <br />CSS3
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
         <br />HTML5
       </a>
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
         <br />Java
       </a>
     </td>
-     <td align="center" width="96">
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <a href="https://www.mysql.com" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
         <br />MySQL
@@ -71,7 +74,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.apachefriends.org/" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/xampp.png" alt="XAMPP" width="40" height="40"/>
+        <img src="https://img.icons8.com/fluency/48/000000/xampp.png" alt="XAMPP" width="40" height="40"/>
         <br />XAMPP
       </a>
     </td>
