@@ -51,10 +51,12 @@
 
 ### 📈 GitHub Stats (Optional)
 
->
 
-```md
+
+
+
 ![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiaTG&show_icons=true&theme=github_dark)
 
 
+---
 
