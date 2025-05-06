@@ -1,8 +1,13 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Timo Giese! 💻
+</h1>
+
+
 <div align="center">
-  <img src="https://wallpapers.com/images/high/4k-universe-planet-with-gas-cloud-6zz6fuewtvgxwnh1.webp" alt="Galactic Background" style="max-width: 100%; border-radius: 8px;" />
+  <img src="https://github.com/fiaTG/fiaTG/blob/main/githubprofile.png?raw=true" alt="Galactic Background" style="width: 100%; height: 50vh; object-fit: cover; border-radius: 8px;" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Timo Giese</h1>
+
 <h3 align="center">💻 A passionate Retrainee IT Specialist for Application Development</h3>
 
 ---
