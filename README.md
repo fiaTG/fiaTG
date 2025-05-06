@@ -1,43 +1,60 @@
 <div align="center">
-  <img src="https://wallpapers.com/images/high/4k-universe-planet-with-gas-cloud-6zz6fuewtvgxwnh1.webp" alt="Hintergrund" width="100%" />
+  <img src="https://wallpapers.com/images/high/4k-universe-planet-with-gas-cloud-6zz6fuewtvgxwnh1.webp" alt="Galactic Background" style="max-width: 100%; border-radius: 8px;" />
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Timo Giese</h1>
-<h3 align="center">A passionate Retrainee for IT specialist for application development</h3>
+<h3 align="center">💻 A passionate Retrainee IT Specialist for Application Development</h3>
 
-- 🌱 I’m currently learning **Fundamentals of programming and software development**
+---
 
-- 📫 How to reach me **giese.fia@gmail.com**
-<br>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<table align="left">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap" />
-        <br />Bootstrap
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
-        <br />CSS3
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
-        <br />HTML5
-      </a>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-        <br />Java
-      </a>
-    </td>
-  </tr>
-</table>
+### 📚 About Me
+
+- 🌱 Currently learning: **Programming fundamentals and software development**
+- 📬 Contact me: **giese.fia@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
+
+<div align="center">
+
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+</a>
+<a href="https://www.w3schools.com/css/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+</a>
+<a href="https://www.javascript.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</a>
+<a href="https://www.php.net/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+</a>
+<a href="https://getbootstrap.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+</a>
+<a href="https://www.java.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+</a>
+
+</div>
+
+---
+
+### 🚀 Goals
+
+- 🧠 Deepen my understanding of object-oriented programming
+- 💼 Build real-world projects and contribute to open-source
+- 🎯 Land a junior developer role in web or backend development
+
+---
+
+### 📈 GitHub Stats (Optional)
+
+>
+
+```md
+![Timo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiaTG&show_icons=true&theme=github_dark)
+
+
 
