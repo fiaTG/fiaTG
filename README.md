@@ -29,7 +29,7 @@
 
 
 
-### 🛠️ Languages
+### 🛠️ Languages & Technologies
 
 
 <table align="center">
